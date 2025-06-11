@@ -1,4 +1,4 @@
-🧾 API - Accessory Obligations
+🧾 API - Accessory Obligations [UNDER DEVELOPMENT]
 
 ## About
 An API developed with FastAPI (Python) designed to manage ancillary obligations for companies. This project is under development.
